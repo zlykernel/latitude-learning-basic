@@ -60,3 +60,4 @@
 
 ## todo list
 + cdn
++ 二级域名
