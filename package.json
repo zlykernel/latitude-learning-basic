@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fenixsoft/awesome-fenix.git"
+    "url": "git+https://github.com/zlykernel/latitude-learning-basic.git.git"
   },
   "author": "icyfenix@gmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fenixsoft/awesome-fenix/issues"
+    "url": "https://github.com/zlykernel/latitude-learning-basic.git/issues"
   },
-  "homepage": "https://github.com/fenixsoft/awesome-fenix#readme",
+  "homepage": "https://github.com/zlykernel/latitude-learning-basic.git#readme",
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.4.0",
     "@vuepress/plugin-google-analytics": "^1.4.0",
