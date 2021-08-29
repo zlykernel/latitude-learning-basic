@@ -25,9 +25,9 @@ deploy:
     target-branch: gh-pages
     on:
       branch: main
-  - provider: script
-    keep_history: true
-    skip_cleanup: true
-    script: npm run deoply:refresh-cdn
-    on:
-      branch: main
+  # - provider: script
+  #   keep_history: true
+  #   skip_cleanup: true
+  #   script: npm run deoply:refresh-cdn
+  #   on:
+  #     branch: main

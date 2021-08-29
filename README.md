@@ -58,12 +58,5 @@
 	<p>网站备案信息：<a href="http://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">粤ICP备18088957号-1</a></p>
 </div>
 
-## 项目需要修改的地方
-+ vuepress 相关
-  + .vuepress/config.js 目录 导航栏等
-  + .vuepress/components/TitleInfos.vue  首页标题及描述
-  + .vuepress/components/GithubInfos.vue github start等信息
-  + .vuepress/public/favicon.ico 浏览器head小图标
-  + .vuepress/public/images/logo-color.png 首页左上角图标
-+ CI相关
-  + 设置gh_token
+## todo list
++ cdn
