@@ -1,6 +1,9 @@
 <GitHubWrapper>
 <p align="center">
 	<br/>
+    <a href="https://baisc.ll.zhaoliangyuan.com" target="_blank">
+    <img width="180" src="https://raw.githubusercontent.com/zlykernel/latitude-learning-basic/main/.vuepress/public/images/logo-color.png" alt="logo">
+  </a>
 </p>
 
 <TitleInfos />
@@ -55,9 +58,5 @@
 
 <div style="padding-top: 20px" class="not-print">
 	<h2 id="备案">备案</h2>
-	<p>网站备案信息：<a href="http://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">粤ICP备18088957号-1</a></p>
+	<p>网站备案信息：<a href="http://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer"></a></p>
 </div>
-
-## todo list
-+ cdn
-+ 二级域名

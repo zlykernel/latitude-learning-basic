@@ -13,8 +13,8 @@ export default {
   name: "GitHubWrapper",
   mounted() {
     const GIT_PREFIX =
-      "https://raw.githubusercontent.com/zlykernel/latitude-learning-basic/master/.vuepress/public/images";
-    const ICYFENIX_CN = "https://icyfenix.cn/images/";
+      "https://raw.githubusercontent.com/zlykernel/latitude-learning-basic/main/.vuepress/public/images";
+    const ICYFENIX_CN = "https://baisc.ll.zhaoliangyuan.com/images/";
     let raw = this.$refs.github_raw;
     let images = raw.querySelectorAll(`img[src^='${GIT_PREFIX}']`);
     images.forEach((i) => {

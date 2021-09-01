@@ -1,6 +1,6 @@
 module.exports = {
     title: '纵横学习法-基础版',
-    description: '纵横学习法',
+    description: '发现你身边的基础知识',
     head: [
         ['link', { rel: 'shortcut icon', type: "image/x-icon", href: `/favicon.ico` }]
     ],
